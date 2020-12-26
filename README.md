@@ -7,4 +7,5 @@ Stalne kontrolne točke za orijentacijsko trčanje u Solarskim šumama
 Kontrolne točke na staroj karti Solarskih šuma. Za novu kartu kontaktiraj OK Vihor na [facebook](https://www.facebook.com/ok.vihor/)/[web](http://www.vihor.hr/)
 
 <img src="images/OK_Solarske_sume_Staza_1.png" hspace="1em" /> 
+<img src="images/Staza_1_table.png" hspace="1em" /> 
 
